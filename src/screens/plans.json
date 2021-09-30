@@ -1,0 +1,22 @@
+{
+    "plans" : [
+        {
+            "active":true, 
+            "description":"4K + HDR", 
+            "name": "Premium",
+            "price": "Rs. 799"
+        },
+        {
+            "active":false, 
+            "description":"FHD", 
+            "name": "Standard",
+            "price": "Rs. 649"
+        },
+        {
+            "active":false, 
+            "description":"SD", 
+            "name": "Basic",
+            "price": "Rs. 499"
+        }
+    ]
+}
